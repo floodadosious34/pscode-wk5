@@ -1,0 +1,43 @@
+// Exercise 1: Calculate the Sum of Two Numbers
+
+Take the first number provided an assign to the variable (a).
+Take the second number provided and assign to the variable (b).
+Take (a) and use plus operator to add (b)and get the sum.
+
+// Exercise 2: Check if a Number is Even or Odd
+
+Take the number provided and divided by 2.
+If the answer is zero then the number is even.
+If the answer is not 0 then the number is odd
+
+// Exercise 3: 
+Write pseudo code that will perform the following.    
+
+a) Read in 5 separate numbers.   
+b) Calculate the average of the five numbers.
+c) Find the smallest (minimum) and largest (maximum) of the five entered numbers.
+d) Write out the results found from steps b and c with a message describing what they are
+
+A) Take each number provided and assign each number to a variable using the alphabet.
+B) Using the addition operator get the sum of variable A+B+C+D+E = sum. Divide the sum by 5. Round down.
+C) Check if A is bigger than B, if true. Assign A to Largest number variable. If false Assign to Smallest letter variable. Continue to check through list of letters and compare with largest and smallest variables.
+D) а=5, b=10, c=13, d=1, e=20
+   a+b+c+d+e = 49 / 5 = 9
+   
+   a>b=false, 
+   a=smallest number, 
+   b=largest number, 
+   b>c=false, 
+   b>smallest number(a)=true, 
+   c>d=true, 
+   c>largest number=true, 
+   c=largest number, 
+   d>e=false, 
+   d>smallest number=false, 
+   d=smallest number, 
+   e>largest number=true, 
+   e=largest number
+   Print largest number = (e)20
+   Print smallest number = (d)1
+
+-- END --
